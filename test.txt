@@ -1,5 +1,11 @@
+
 royLuo learning git now;
 
 hi,how are you.
 
+
+
 ok,i'm fine,fxck you
+
+
+hello,change txt in git-bash
